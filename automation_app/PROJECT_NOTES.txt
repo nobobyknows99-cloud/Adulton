@@ -1,0 +1,15 @@
+This automation app starter is a simple desktop tool that organizes files by extension into category folders.
+
+It is intentionally lightweight so you can expand it later with:
+- task scheduling
+- browser automation
+- hotkeys
+- cloud sync
+- auto-backups
+- CSV logging
+- GUI styling
+
+Folder structure:
+- `main.py` — app entrypoint
+- `README.md` — quick use instructions
+- `requirements.txt` — dependencies (currently empty; standard library only)
